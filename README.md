@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/TERMINAL-ARIS_SURYANA-000000?style=for-the-badge&logo=gnumetronome&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-3ECF8E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SYSTEM-ARIS_SURYANA-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-3ECF8E?style=for-the-badge" />
 </p>
 
 ---
@@ -30,36 +30,37 @@ Tech enthusiast specializing in programming, embedded systems, and automation. P
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### Contribution Analysis
+### Contribution Matrix
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cexyzp&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://raw.githubusercontent.com/cexyzp/cexyzp/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cexyzp&theme=react-dark&hide_border=true&area=true&color=3ECF8E" width="100%" />
+</p>
+
+---
+
+### GitHub Technical Analysis
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=cexyzp&show_icons=true&theme=dark&rank_icon=github" />
+      <img src="https://github-readme-stats.vercel.app/api?username=cexyzp&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexyzp&layout=compact&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cexyzp&theme=dark" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexyzp&layout=compact&theme=tokyonight&border_radius=10" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cexyzp&theme=radical&no-frame=true&column=4" />
+</p>
 
 ---
 
@@ -71,5 +72,5 @@ Tech enthusiast specializing in programming, embedded systems, and automation. P
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=cexyzp&color=3ECF8E&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=cexyzp&color=3ECF8E&style=flat-square&label=TRAFFIC_ANALYSIS" />
 </p>
